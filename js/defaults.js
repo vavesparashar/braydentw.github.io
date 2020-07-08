@@ -1,3 +1,4 @@
 AOS.init({
-    once: true
+    once: true,
+    disabled: 'mobile'
 });
